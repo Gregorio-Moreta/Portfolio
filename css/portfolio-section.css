@@ -89,7 +89,7 @@
 }
 
 /* Box locations */
-/* Box image 2 */
+/* Box image 1 */
 
 #portfolio-section .portfolio-container .box.image1 {
     grid-column: 1 / 2;
@@ -99,7 +99,7 @@
 #portfolio-section .portfolio-container .box.image1 .image {
     height: 100%;
     width: 100%;
-    background: url("https://interactive-examples.mdn.mozilla.net/media/cc0-images/grapefruit-slice-332-332.jpg");
+    background: url("https://i.ibb.co/7VX035f/Screen-Shot-2022-02-04-at-12-05-42-PM.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -115,7 +115,7 @@
 #portfolio-section .portfolio-container .box.image2 .image {
     height: 100%;
     width: 100%;
-    background: url("https://helpx.adobe.com/content/dam/help/en/photoshop/using/convert-color-image-black-white/jcr_content/main-pars/before_and_after/image-before/Landscape-Color.jpg");
+    background: url("https://i.ibb.co/XjGwBXd/screencapture-bloggyapp-netlify-app-dashboard-2022-02-07-03-16-44.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -131,7 +131,7 @@
 #portfolio-section .portfolio-container .box.image3 .image {
     height: 100%;
     width: 100%;
-    background: url("https://images.unsplash.com/photo-1612151855475-877969f4a6cc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aGQlMjBpbWFnZXxlbnwwfHwwfHw%3D&w=1000&q=80");
+    background: url("https://i.ibb.co/9wDNjR8/Screen-Shot-2022-02-07-at-3-26-10-AM.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
