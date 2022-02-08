@@ -142,11 +142,33 @@
 /* MEDIA QUERIES --- Tablet Views */
 
 @media only screen and (max-width: 960px) {
-
+    #portfolio-section .portfolio-container .box.image1 {
+        grid-column: 1 / 4;
+        grid-row: 1 / 2;
+    }
+    #portfolio-section .portfolio-container .box.image2 {
+        grid-column: 1 / 4;
+        grid-row: 2 / 3;
+    }
+    #portfolio-section .portfolio-container .box.image3 {
+        grid-column: 1 / 4;
+        grid-row: 3 / 4;
+    }
 }
 
 /*  Phones  */
 
 @media only screen and (max-width: 767px) {
-
+    #portfolio-section .portfolio-container .box.image1 {
+        grid-column: 1 / 4;
+        grid-row: 1 / 2;
+    }
+    #portfolio-section .portfolio-container .box.image2 {
+        grid-column: 1 / 4;
+        grid-row: 2 / 3;
+    }
+    #portfolio-section .portfolio-container .box.image3 {
+        grid-column: 1 / 4;
+        grid-row: 3 / 4;
+    }
 }

@@ -142,13 +142,60 @@
 /* MEDIA QUERIES --- Tablet Views */
 
 @media only screen and (max-width: 960px) {
-
+    #experience-section .large-title {
+        font-size: 3rem;
+        left: 0;
+    }
+    #experience-section .experience-container .large-icons {
+        position: relative;
+        top: 20px;
+    }
+    #experience-section .experience-container .large-icons .square {
+        border: 30px solid #52b8ff;
+        padding: 5px;
+        display: inline-block;
+        position: relative;
+        top: 80px;
+        left: 15px;
+    }
+    #experience-section .experience-container .large-icons .circle {
+        border: 30px solid #52b8ff;
+        padding: 5px;
+        display: inline-block;
+        border-radius: 50%;
+        position: relative;
+        top: 70px;
+        left: 30px;
+    }
+    #experience-section .experience-container .large-icons .triangle {
+        width: 0;
+        height: 0;
+        border-style: solid;
+        border-width: 0 150px 230px 150px;
+        border-color: transparent transparent #52b8ff transparent;
+        position: relative;
+    }
 }
 
 /*  Phones  */
 
 @media only screen and (max-width: 767px) {
-
+    #experience-section .large-title {
+        font-size: 2.5rem;
+        left: 0;
+    }
+    #experience-section .experience-container {
+        grid-template-columns: 1fr;
+    }
+    #experience-section .experience-container .large-icons {
+        display: none;
+    }
+    #experience-section .experience-container .info .info-box h4 {
+        font-size: .9rem;
+    }
+    #experience-section .experience-container .info .info-box .date {
+        font-size: .8rem;
+    }
 }
 
 
