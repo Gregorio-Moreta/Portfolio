@@ -84,19 +84,20 @@
     position: absolute;
     left: -94px;
     top: 49px;
-    font-weight: 600;
-    font-size: 1.1rem;
+    font-weight: 400;
+    font-size: 1.5rem;
     letter-spacing: 3px;
     text-transform: uppercase;
     color: #ff5253;
+    
 }
 
 #experience-section .experience-container .large-icons .triangle .triangle-box .text {
     position: relative;
-    top: 98px;
-    left: -29px;
-    font-weight: 600;
+    top: 111px;
+    left: -53px;
     color: #16171b;
+    font-size: 2rem;
 }
 
 #experience-section .experience-container .info {
