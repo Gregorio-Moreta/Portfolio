@@ -2,13 +2,15 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,700;1,600&family=Roboto&display=swap');
 
-@import 'top-section.css';
+@import 'landing-page/top-section.css';
 
-@import 'services.css';
+@import 'landing-page/services.css';
 
-@import 'portfolio-section.css';
+@import 'landing-page/portfolio-section.css';
 
-@import 'experience-section.css';
+@import 'landing-page/experience-section.css';
+
+@import 'portfolio/portfolio-projects.css';
 
 @import 'footer-section.css';
 

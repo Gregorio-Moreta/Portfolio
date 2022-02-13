@@ -1,0 +1,11 @@
+#portfolio-projects {
+    padding: 00px 15px;
+}
+
+
+#portfolio-projects h1 {
+   font-size: 4rem;
+   font-weight: 600;
+   font-style: italic;
+   margin-bottom: 1rem;
+}
