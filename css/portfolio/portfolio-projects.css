@@ -62,9 +62,9 @@
     margin-bottom: 1.8rem;
 }
 
-#portfolio-projects .technologies {
+/* #portfolio-projects .technologies {
 
-}
+} */
 
 #portfolio-projects .technologies h3 {
     font-size: 2rem;
@@ -121,6 +121,7 @@
 @media only screen and (max-width: 767px) {
 #portfolio-projects .project-images .img {
     height: 210px;
+}
 }
 
 #portfolio-projects .info .buttons {
